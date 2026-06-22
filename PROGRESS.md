@@ -9,11 +9,11 @@
 - Could I rebuild this from memory tomorrow? Partially — need to revisit
   
 ### Day 4 — 22/06/2026
-- Time:
-- Covered:
-- Built:
-- Struggled with:
-- Could I rebuild this from memory tomorrow?
+- Time: 2h
+- Covered: 2.1 Datatypes and Data Structures
+- Built: Portfolio Report Script , Missing Stocks Script
+- Struggled with: Git merge conflicts (resolved)
+- Could I rebuild this from memory tomorrow? 70% of it
 
 ### Day 5 — [date]
 - Time:
