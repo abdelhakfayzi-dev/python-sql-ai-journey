@@ -15,12 +15,12 @@
 - Struggled with: Git merge conflicts (resolved)
 - Could I rebuild this from memory tomorrow? 70% of it
 
-### Day 5 — [date]
-- Time:
-- Covered:
-- Built:
-- Struggled with:
-- Could I rebuild this from memory tomorrow?
+### Day 5 — 23/06/2026
+- Time: 2h
+- Covered: Containers (lists, tuples, sets, dicts), formatting exercise, portfolio table
+- Built: Portfolio table report with formatted columns, converted list of tuples to dictionary,+ some exercises on containers.
+- Struggled with: Nothing major
+- Could I rebuild this from memory tomorrow?  90% of it
 
 ### Day 6 — [date]
 - Time:
