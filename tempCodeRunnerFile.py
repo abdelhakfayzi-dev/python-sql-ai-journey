@@ -1,1 +1,1 @@
-print(list)
+shares * price
