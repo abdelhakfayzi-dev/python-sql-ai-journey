@@ -22,12 +22,12 @@
 - Struggled with: Nothing major
 - Could I rebuild this from memory tomorrow?  90% of it
 
-### Day 6 — [date]
-- Time:
-- Covered:
-- Built:
-- Struggled with:
-- Could I rebuild this from memory tomorrow?
+### Day 6 — 23/06/2026
+- Time: 30min
+- Covered: sequences and collections
+- Built: nothing.
+- Struggled with:nothing.
+- Could I rebuild this from memory tomorrow? 
 
 ---
 
