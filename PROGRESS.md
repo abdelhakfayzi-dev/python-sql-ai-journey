@@ -22,12 +22,19 @@
 - Struggled with: Nothing major
 - Could I rebuild this from memory tomorrow?  90% of it
 
-### Day 6 — 23/06/2026
+### Day 6 — 24/06/2026
 - Time: 30min
 - Covered: sequences and collections
 - Built: nothing.
 - Struggled with:nothing.
-- Could I rebuild this from memory tomorrow? 
+- Could I rebuild this from memory tomorrow?
+
+### Day 7 — 25/06/2026
+- Time: 2h
+- Covered: List comprehensions, sequences (slicing, concatenation, repetition, membership, enumerate, zip), collections (Counter, defaultdict, deque)
+- Built: `practice_sequences.py` (10 exercises), `list_comprehensions.py` (10 exercises)
+- Struggled with:nothing.
+- Could I rebuild this from memory tomorrow? Yes 
 
 ---
 
