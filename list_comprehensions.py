@@ -81,5 +81,5 @@ import csv
 with open('Portfolio.csv', 'r') as f:
     reader = csv.DictReader(f)
     rows = list(reader)
-    print([row for row in rows if for name,shares,price in rows price> 50])
+    print( row for row in rows if for name,shares,price in rows price> 50)
     

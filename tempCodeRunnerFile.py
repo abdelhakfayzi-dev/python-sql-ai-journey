@@ -1,1 +1,1 @@
-shares * price
+[
