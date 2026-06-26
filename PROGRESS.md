@@ -34,7 +34,29 @@
 - Covered: List comprehensions, sequences (slicing, concatenation, repetition, membership, enumerate, zip), collections (Counter, defaultdict, deque)
 - Built: `practice_sequences.py` (10 exercises), `list_comprehensions.py` (10 exercises)
 - Struggled with:nothing.
-- Could I rebuild this from memory tomorrow? Yes 
+- Could I rebuild this from memory tomorrow? Yes
+
+### Day 8 — 26/06/2026
+- Time: 4h
+- Covered: 
+  - Section 2.7 (Object model, mutability, identity, deepcopy)
+  - Section 3.1 (Functions, script writing, main guard)
+  - Section 3.2 (Default arguments, *args, **kwargs)
+  - Section 3.4 (Modules, imports)
+  - Built complete portfolio_report program with:
+    - read_portfolio, read_prices, make_report, print_report, portfolio_report
+    - Exception handling with csv.reader and csv.DictReader
+    - Flexible function using **kwargs (calculate_weighted_total)
+- Built: 
+  - object_model_practice.py
+  - portfolio_report.py (fully structured program)
+  - warmup.py (list comprehension review)
+- Struggled with: 
+  - read_prices using csv.reader vs csv.DictReader (fixed)
+  - Floating-point artifacts in output (normal)
+  - Git contributions not showing (email mismatch)
+- Could I rebuild this from memory tomorrow? 
+  Yes  – I understand the full structure: read → process → report, with functions separated by responsibility.
 
 ---
 
