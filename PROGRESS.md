@@ -41,12 +41,10 @@
 - Covered: 
   - Section 2.7 (Object model, mutability, identity, deepcopy)
   - Section 3.1 (Functions, script writing, main guard)
-  - Section 3.2 (Default arguments, *args, **kwargs)
-  - Section 3.4 (Modules, imports)
   - Built complete portfolio_report program with:
     - read_portfolio, read_prices, make_report, print_report, portfolio_report
     - Exception handling with csv.reader and csv.DictReader
-    - Flexible function using **kwargs (calculate_weighted_total)
+    - Flexible function 
 - Built: 
   - object_model_practice.py
   - portfolio_report.py (fully structured program)
@@ -57,6 +55,19 @@
   - Git contributions not showing (email mismatch)
 - Could I rebuild this from memory tomorrow? 
   Yes  – I understand the full structure: read → process → report, with functions separated by responsibility.
+
+ ### Day 8 — 26/06/2026
+  - Time: 1h
+- Covered: 
+  - Read Section 3.2 (More on functions) – default arguments
+  - Wrote fileparse.py with parse_csv function
+  - Added column selector (select parameter) – still working on it
+- Built: fileparse.py (parse_csv with select parameter)
+- Struggled with: 
+  - Understanding how `select` works 
+  - Column selection logic (still not fully clear)
+- Could I rebuild this from memory tomorrow? 
+  Not yet – need to review the column selector logic and practice it.
 
 ---
 
