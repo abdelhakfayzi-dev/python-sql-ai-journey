@@ -1,0 +1,134 @@
+[
+  {
+    "id": "intern_0",
+    "title": "Data Science Intern",
+    "company": "Orange Maroc",
+    "description": "Requires Python, Pandas, Scikit-learn and SQL for data analysis."
+  },
+  {
+    "id": "intern_1",
+    "title": "Cloud Computing Intern",
+    "company": "OCP",
+    "description": "Requires AWS, Azure, SQL, Python"
+  },
+  {
+    "id": "intern_2",
+    "title": "AI Research Intern",
+    "company": "UM6P",
+    "description": "Requires Python, TensorFlow, PyTorch, and NLP skills for research projects."
+  },
+  {
+    "id": "intern_3",
+    "title": "Full Stack Developer Intern",
+    "company": "HPS",
+    "description": "Requires JavaScript, React, Node.js, and MongoDB."
+  },
+  {
+    "id": "intern_4",
+    "title": "Cybersecurity Analyst Intern",
+    "company": "Maroc Telecom",
+    "description": "Requires Network Security, Linux, Python, and SIEM tools."
+  },
+  {
+    "id": "intern_5",
+    "title": "Data Engineering Intern",
+    "company": "Attijariwafa Bank",
+    "description": "Requires Python, SQL, Apache Spark, and Airflow."
+  },
+  {
+    "id": "intern_6",
+    "title": "Mobile Development Intern",
+    "company": "Inwi",
+    "description": "Requires Kotlin, Android SDK, REST APIs, and Firebase."
+  },
+  {
+    "id": "intern_7",
+    "title": "DevOps Engineer Intern",
+    "company": "CGI Maroc",
+    "description": "Requires Docker, Kubernetes, Jenkins, and Linux."
+  },
+  {
+    "id": "intern_8",
+    "title": "Business Intelligence Intern",
+    "company": "BMCE Bank",
+    "description": "Requires SQL, Power BI, Excel, and data warehousing concepts."
+  },
+  {
+    "id": "intern_9",
+    "title": "Machine Learning Intern",
+    "company": "IBM Morocco",
+    "description": "Requires Python, Scikit-learn, TensorFlow, and deep learning."
+  },
+  {
+    "id": "intern_10",
+    "title": "Network Engineer Intern",
+    "company": "Nokia Maroc",
+    "description": "Requires CCNA, TCP/IP, Linux, and network automation."
+  },
+  {
+    "id": "intern_11",
+    "title": "Embedded Systems Intern",
+    "company": "STMicroelectronics",
+    "description": "Requires C, C++, Embedded Linux, and microcontrollers."
+  },
+  {
+    "id": "intern_12",
+    "title": "UX/UI Design Intern",
+    "company": "EY Maroc",
+    "description": "Requires Figma, Adobe XD, user research, and prototyping."
+  },
+  {
+    "id": "intern_13",
+    "title": "Blockchain Developer Intern",
+    "company": "MADPay",
+    "description": "Requires Solidity, Ethereum, Web3.js, and smart contracts."
+  },
+  {
+    "id": "intern_14",
+    "title": "Digital Marketing Intern",
+    "company": "Publicis Maroc",
+    "description": "Requires SEO, Google Analytics, Content Creation, and Social Media."
+  },
+  {
+    "id": "intern_15",
+    "title": "IT Support Intern",
+    "company": "Café du Maroc",
+    "description": "Requires Windows, Linux, Networking Basics, and troubleshooting."
+  },
+  {
+    "id": "intern_16",
+    "title": "ERP Consultant Intern",
+    "company": "SAP Maroc",
+    "description": "Requires SAP modules, SQL, Business Process Analysis, and Excel."
+  },
+  {
+    "id": "intern_17",
+    "title": "Game Development Intern",
+    "company": "Ubisoft Maroc",
+    "description": "Requires C#, Unity, 3D modeling, and game design principles."
+  },
+  {
+    "id": "intern_18",
+    "title": "IoT Solutions Intern",
+    "company": "Huawei Maroc",
+    "description": "Requires Python, C, MQTT, and sensor integration."
+  },
+  {
+    "id": "intern_19",
+    "title": "Fintech Developer Intern",
+    "company": "Paytech Maroc",
+    "description": "Requires Python, Django, SQL, and payment gateway integration."
+  },
+  {
+    "id": "intern_20",
+    "title": "Research Intern in Renewable Energy",
+    "company": "IRESEN",
+    "description": "Requires Python, MATLAB, Data Analysis, and simulation tools."
+  },
+  {
+    "id": "intern_21",
+    "title": "Product Management Intern",
+    "company": "Delivery Maroc",
+    "description": "Requires Agile methodologies, user stories, and market research."
+  }
+]
