@@ -216,3 +216,10 @@
 - Built: 50-page web scraper. Created a professional `portfolio` GitHub repo architecture. Set up Upwork and Malt freelancer profiles linked to the portfolio.
 - Struggled with: Nested loop indentation (writing duplicate rows).
 - Rebuild from memory? Yes
+
+### Day 28 — 15/08/2026
+- Time: ~6h
+- Covered: Streamlit Cloud deployment, environment variable management (os.environ), n8n workflow testing & export, UPWORK + MALT.FR profiles set up and professional CV generation (LaTeX).
+- Built: Verified and exported the WhatsApp Clinic Booking Bot (n8n + Twilio + Groq + Sheets). Loaded the GitHub portfolio with 3 verified projects. Completed Upwork and Malt profile (3 portfolio items).
+- Struggled with: lost all the files in the first repo. Merge conflicts after web edits, hardcoded secrets in n8n JSON exports blocking pushes, and Malt's CV parsing requiring manual experience entry.
+- Rebuild from memory? Yes
