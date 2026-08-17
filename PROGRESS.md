@@ -223,3 +223,10 @@
 - Built: Verified and exported the WhatsApp Clinic Booking Bot (n8n + Twilio + Groq + Sheets). Loaded the GitHub portfolio with 3 verified projects. Completed Upwork and Malt profile (3 portfolio items).
 - Struggled with: lost all the files in the first repo. Merge conflicts after web edits, hardcoded secrets in n8n JSON exports blocking pushes, and Malt's CV parsing requiring manual experience entry.
 - Rebuild from memory? Yes
+
+### Day 29 — 17/08/2026
+- **Time:** 2h
+- **Covered:** Web scraping, SQLite price storage, comparison logic, report formatting
+- **Built:** price_tracker.py — live price monitor for French e-commerce products
+- **Struggled with:** Same price status showing up every time i run the code.
+- **Rebuild from memory?** Yes / No
