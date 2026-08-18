@@ -229,4 +229,11 @@
 - **Covered:** Web scraping, SQLite price storage, comparison logic, report formatting
 - **Built:** price_tracker.py — live price monitor for French e-commerce products
 - **Struggled with:** Same price status showing up every time i run the code.
-- **Rebuild from memory?** Yes / No
+- **Rebuild from memory?** Yes
+
+### Day 30 — 18/08/2026
+- **Time:** 6h
+- **Covered:** B2B cold outreach, niche targeting, Selenium anti-bot scraping, lead-data cleaning/filtering
+- **Built:** Lead scraper (Selenium headless), 5 cleaned lead CSVs (~300 rows), 10 personalized pitches (5 emails + 5 contact forms)
+- **Struggled with:** YP IP blocks and blank addresses (solved with manual Google Maps hustle), hidden company emails (solved with bait-drop forms)
+- **Could I rebuild this from memory tomorrow?** 85% of it
