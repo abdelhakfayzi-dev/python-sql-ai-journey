@@ -237,3 +237,10 @@
 - **Built:** Lead scraper (Selenium headless), 5 cleaned lead CSVs (~300 rows), 10 personalized pitches (5 emails + 5 contact forms)
 - **Struggled with:** YP IP blocks and blank addresses (solved with manual Google Maps hustle), hidden company emails (solved with bait-drop forms)
 - **Could I rebuild this from memory tomorrow?** 85% of it
+
+### Day 31 — 19/08/2026
+- **Time:** 3h
+- **Covered:** Prospects/leads search and 20 personalized cold emails sent
+- **Built:** Nothing
+- **Struggled with:** Wrong HQ assumptions, no-attachment pivot (bait-drop reply line)
+- **Could I rebuild this from memory tomorrow?** yes
