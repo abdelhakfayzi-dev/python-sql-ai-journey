@@ -244,3 +244,11 @@
 - **Built:** Nothing
 - **Struggled with:** Wrong HQ assumptions, no-attachment pivot (bait-drop reply line)
 - **Could I rebuild this from memory tomorrow?** yes
+
+### Day 32 — 20/08/2026
+- **Time:** 2h
+- **Covered:** Niche software prospecting and 13 personalized cold emails sent
+- **Built:** Nothing
+- **Struggled with:** Filtering out non-US companies and verifying exact HQ locations
+- **Could I rebuild this from memory tomorrow?** yes
+
