@@ -5,7 +5,6 @@ from pypdf import PdfReader
 import chromadb
 import json
 
-# --- 1. UI SETUP ---
 st.title("CV/Internship Fit Scorer (Level 2 RAG)")
 st.write("Upload a CV and let the AI automatically find and analyze the best matching internships from our database.")
 

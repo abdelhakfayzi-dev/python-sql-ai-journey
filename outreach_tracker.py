@@ -4,25 +4,14 @@ from datetime import date
 import os
 
 CSV_FILE = "leads.csv"
-
-# 1. Create CSV with headers if it doesn't exist
-# Headers: company, contact, email, date_sent, status, follow_up_date, notes
-
-
 file_exists = os.path.isfile(CSV_FILE)
 fieldnames = ['Company', 'Contact', 'Email', 'date_sent', 'status', 'follow_up_date', 'notes']
 
 with open(CSV_FILE , mode='a', newline='') as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
-    
-    # Write header only if file is newly created
     if not file_exists:
         writer.writeheader()
         
-   
-
-
-# 2. Function to add a new lead
 def add_lead(company, contact, email):
     date_sent = datetime.now().strftime("%Y-%m-%d")
     follow_up_date = (datetime.now() + timedelta(days=3)).strftime("%Y-%m-%d")
@@ -38,22 +27,22 @@ def add_lead(company, contact, email):
             'notes': ''
         })
 
-# 3. Function to update lead status
-def update_status(email, new_status):
-    pass
 
-# 4. Function to show follow-ups due today
 today = date.today()
 def show_follow_ups():
     with open(CSV_FILE, 'r', encoding='utf-8-sig') as f:
         rows = csv.DictReader(f)
+        found = False
         for row in rows:
             if datetime.strptime(row['follow_up_date'], "%Y-%m-%d").date() <= today and row['status'] == 'sent':
                 print(f"Follow up: {row['Company']} — {row['Contact']} — {row['Email']} (due: {row['follow_up_date']})")
+                found = True
+            
+        if not found:
+         print('No follow-ups due today.')
 
     pass
 
-# 5. Function to show stats
 def show_stats():
     with open(CSV_FILE, 'r', encoding='utf-8-sig') as f:
         rows = csv.DictReader(f)
@@ -74,8 +63,6 @@ def show_stats():
         print(f"Follow ups due: {sent_count}")
         print(f"Reply rate: {reply_rate:.1f}%")   
     
-
-# 6. Main menu
 def main():
     print("\n=== OUTREACH TRACKER ===")
     print("1. Add lead")
